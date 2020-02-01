@@ -2,6 +2,7 @@
 
 void main(){
 	int i;
+	vector<int> v;
 	char c;
 	string s;
 	std::cin>>k;
